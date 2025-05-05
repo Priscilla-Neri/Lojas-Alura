@@ -11,3 +11,12 @@ Produtos Mais e Menos Vendidos
 Frete Médio por Loja
 A partir dessas informações, identifique qual loja apresenta o menor desempenho geral , considerando fatores financeiros, operacionais e de satisfação do cliente.
 
+✅ Conclusão
+A Loja 4 combina os piores indicadores de desempenho geral , com:
+
+Faturamento Low
+Baixa diversificação em vendas
+Avaliação inferior
+Redundância geográfica
+Apesar da logística enxuta, não há justificativa estratégica para sua permanência .
+Recomenda-se sua venda , permitindo ao Senhor João realocar capital para empreendimentos com maior retorno e escalabilidade .
